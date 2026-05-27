@@ -1,0 +1,54 @@
+<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="120" fill="#1A2F45" rx="8"/>
+  
+  <!-- Icon: upward arrow breaking through downward curve -->
+  <g transform="translate(18, 15)">
+    <!-- Downward churn curve (red/fading) -->
+    <path d="M10 20 Q30 22 50 40 Q65 52 75 65" 
+          stroke="#E74C3C" stroke-width="3" fill="none" 
+          stroke-dasharray="4,3" opacity="0.7"/>
+    
+    <!-- Circle background for icon -->
+    <circle cx="45" cy="45" r="38" fill="#0E6655" opacity="0.25"/>
+    <circle cx="45" cy="45" r="38" fill="none" stroke="#1ABC9C" stroke-width="1.5" opacity="0.5"/>
+    
+    <!-- Upward arrow breaking through -->
+    <line x1="45" y1="72" x2="45" y2="22" stroke="#1ABC9C" stroke-width="4" stroke-linecap="round"/>
+    <polygon points="45,12 36,28 54,28" fill="#1ABC9C"/>
+    
+    <!-- Small horizontal break line -->
+    <line x1="28" y1="45" x2="62" y2="45" stroke="#AED6F1" stroke-width="1.5" opacity="0.6" stroke-dasharray="3,3"/>
+    
+    <!-- Data dots on curve -->
+    <circle cx="10" cy="20" r="3" fill="#AED6F1"/>
+    <circle cx="35" cy="30" r="3" fill="#AED6F1"/>
+    <circle cx="60" cy="50" r="3" fill="#E74C3C" opacity="0.8"/>
+    <circle cx="78" cy="65" r="3" fill="#E74C3C" opacity="0.6"/>
+  </g>
+  
+  <!-- Company name -->
+  <text x="108" y="52" 
+        font-family="Arial Black, Arial, sans-serif" 
+        font-size="28" font-weight="900" 
+        fill="#FFFFFF" letter-spacing="1">Clear</text>
+  <text x="190" y="52" 
+        font-family="Arial Black, Arial, sans-serif" 
+        font-size="28" font-weight="900" 
+        fill="#1ABC9C" letter-spacing="1">Churn</text>
+  
+  <!-- Divider line -->
+  <line x1="108" y1="60" x2="365" y2="60" stroke="#2471A3" stroke-width="1" opacity="0.6"/>
+  
+  <!-- Tagline -->
+  <text x="108" y="80" 
+        font-family="Arial, sans-serif" 
+        font-size="11" 
+        fill="#85C1E9" letter-spacing="2">ANALYTICS</text>
+  
+  <!-- Small tagline -->
+  <text x="108" y="98" 
+        font-family="Arial, sans-serif" 
+        font-size="9" 
+        fill="#7F8C8D" letter-spacing="0.5">Turning Customer Exits into Business Intelligence</text>
+</svg>
