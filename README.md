@@ -226,7 +226,7 @@ Add your project links here when ready:
 - **Kaggle Telco dataset:** https://www.kaggle.com/datasets/blastchar/telco-customer-churn<img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/c6435895-4e6d-46f7-bea6-9e98ac13a4fd" />
 - **Kaggle Bank dataset:** https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling<img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/6de4544a-818c-41a2-91b3-2b7e0069ab01" />
 - **Tableau dashboard:** https://public.tableau.com/authoring/Churn_Analysis_A_Cross_Industrial_Investigation/Telco_Dashbord#1<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/8f8ca39f-0073-400d-a711-19aaf446ba48" />
-- **Presentation Pdf:** https://github.com/Hina-Haq/Churn_Analysis-A_Cross_Industrial_Study 
+- **Presentation Pdf:** https://github.com/Hina-Haq/Churn_Analysis A_Cross_Industrial_Study/blob/main/ClearChurn_Final_Presentation.pdf
 
 ---
 
